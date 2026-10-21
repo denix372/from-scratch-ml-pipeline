@@ -1,0 +1,19 @@
+# Environments
+.venv/
+env/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data
+data/raw/*.csv
+data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# OS generated files
+.DS_Store
