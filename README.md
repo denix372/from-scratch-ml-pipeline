@@ -32,7 +32,7 @@ After establishing the mathematical baseline, the pipeline transitions to indust
 
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/inside-out-ml-pipeline.git
+git clone https://github.com/denix372/from-scratch-ml-pipeline
 cd inside-out-ml-pipeline
 pip install -r requirements.txt
 python src/pipeline.py
